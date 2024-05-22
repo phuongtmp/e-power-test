@@ -1,4 +1,4 @@
 {
-"version":"1.0.1",
-"addr":"https://raw.githubusercontent.com/phuongtmp/e-power-test/main/E-POWER-V1.0.1.bin",
+"version":"1.0.0",
+"addr":"https://raw.githubusercontent.com/phuongtmp/e-power-test/main/E-POWER-V1.0.0.bin",
 }
